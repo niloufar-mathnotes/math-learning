@@ -4,8 +4,7 @@ Solutions to Euclidean and Non Euclidean Geometries: Development and History by 
 
 حل تمرینات هندسه های اقلیدسی و نااقلیدسی و بسط آن  نوشته ی ماروین جی گرینبرگ (ویرایش سوم)
 
-[1 - EUCLID'S GEOMETRY]
-(./university-courses/geometry-greenberg/ch01 - EUCLID'S GEOMETRY)
+[1 - EUCLID'S GEOMETRY](./university-courses/geometry-greenberg/ch01 - EUCLID'S GEOMETRY)
 [2 - LOGIC AND INCIDENCE GEOMETRY]
 
 [3 - HILBERT'S AXIOMS]
