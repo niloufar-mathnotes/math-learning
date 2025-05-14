@@ -1,2 +1,3 @@
-# math-learning
-Developing mathematical understanding through self study and coursework.
+# Math Learning
+
+A structured archive of university courses, online studies, self-study projects, research notes, and competition training in mathematics.
